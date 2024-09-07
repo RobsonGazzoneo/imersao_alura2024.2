@@ -1,4 +1,5 @@
 Treinador Online: Seu guia fitness personalizado! ️‍💪🏼
+(Feito na Imersão Alura + Google Gemini - By Robson Gazzoneo)
 
 O que é?
 Que tal ter um personal trainer online sempre à disposição? Com o Treinador Online, você pode pesquisar por exercícios, descobrir como executá-los corretamente e se inspirar para alcançar seus objetivos fitness!
